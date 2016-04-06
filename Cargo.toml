@@ -1,6 +1,6 @@
 [package]
 name = "netlink"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Abhishek Chanda <abhishek.becs@gmail.com>"]
 description = "Bindings for libnetlink"
 license = "MIT OR Apache-2.0"
